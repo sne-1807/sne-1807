@@ -4,4 +4,4 @@ I'm currently interested in: Embedded systems and PCB designing. I am very inter
 
 I'm currently learning: C Programming, ESP32, KiCAD PCB Designing
 
-Other hobbies: Playing tennis, writing poetry and reading books! 
+Other hobbies: Playing tennis, writing poetry, reading books and quantum physics DUH! 
