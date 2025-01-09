@@ -1,7 +1,6 @@
-Hey there, Sneha here! I am sophomore college student studying electrical engineering. 
+Hey there, Sneha here! I am in my pre-final year of my undergraduate course in electrical engineering. 
 
-I'm currently interested in: Embedded systems and PCB designing. I am very interested in EVs and hope to contribute to the automobile industry in a green way. I have experience with MATLAB/Simulink, which I have applied in projects.
+I'm currently interested in: Embedded Systems and Control Systems
 
-I'm currently learning: C Programming, ESP32, KiCAD PCB Designing
+I'm currently learning: FreeRTOS, Networking and Communication Protocols, Computer Architecture, STM32
 
-Other hobbies: Playing tennis, writing poetry, reading books and quantum physics DUH! 
